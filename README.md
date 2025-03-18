@@ -1,4 +1,4 @@
-### Spam Detection with Blockchain Integration
+# Spam Detection with Blockchain Integration
 
 # **Overview**
 
